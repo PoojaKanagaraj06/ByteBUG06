@@ -5,7 +5,7 @@
 ### Purpose
 This document specifies the requirements for an AI-powered platform designed to improve rural livelihoods through technology-enabled agricultural and community support services. The platform aims to bridge the digital divide by providing accessible, intelligent solutions for farmers and rural communities.
 
-### Scope
+### ScopE
 The Rural AI Platform encompasses crop disease detection, weather advisory, soil analysis, government scheme recommendations, market predictions, sustainable farming guidance, multilingual voice assistance, and offline-capable functionality for low-connectivity rural areas.
 
 ## Problem Statement
@@ -271,4 +271,5 @@ Rural communities face significant challenges in accessing modern agricultural k
 - **Income Improvement**: 15% average increase in farmer income
 - **Knowledge Access**: 80% of users report improved access to agricultural information
 - **Government Scheme Uptake**: 30% increase in scheme applications from target areas
+
 - **Platform Sustainability**: Self-sustaining revenue model within 3 years
